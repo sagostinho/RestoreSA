@@ -475,4 +475,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# My project files
 API/appsettings.json
+store.db
